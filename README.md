@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+Level 7 qualified Python Developer with experience building APIs, machine learning solutions and data-driven applications using Python, FastAPI, SQL and Pandas. Developed a phishing URL detection platform achieving 94.27% cross-validation accuracy and a sales analytics dashboard identifying a 13.7% sales uplift. Skilled in API testing, object-oriented programming, software testing and software development, with certificates in software engineering from Quantium and DATACOM.<br>RELEVANT SKILLS<br>Functional Competencies: Object-Oriented Programming (OOP) | Data Structures & Algorithms | Data Analysis | Data Processing | Test-Driven Development (TDD) | Automated Testing | Debugging | System Integration | CI/CD Practices<br>Technical Tools: Python |FastAPI | REST API | SQL |PostgreSQL | Pandas | Dash (Plotly) | Git/GitHub<br>PROJECTS<br> <br>Industrial Alarm System Using Raspberry Pi and IoT                                                                                                          Mar 2022<br>•	Developed a Python-based Raspberry Pi alarm system using IoT sensors to detect fire, smoke and gas hazards, enabling automated real-time emergency monitoring across 3 hazard categories.<br>•	Calibrated 3 sensor types with detection thresholds of 3.0%, 7.2% and 12.5%, improving the accuracy and consistency of hazard identification.<br>•	Implemented IoT-enabled remote monitoring and automated alerts, accelerating incident response by 19% and supporting faster escalation of safety-critical events.<br>•	Tested and validated end-to-end alert workflows across 3 hazard scenarios, reducing emergency response time by 20% and ensuring reliable sensor-to-notification communication.<br>Real-Time Phishing URL Detection Platform Using DistilBERT and FastAPI                                                                   May 2024<br>•	Built a Python FastAPI phishing detection API using DistilBERT, combining contextual embedding’s and handcrafted URL features to support real-time URL classification for security workflows.<br>•	Cleaned and prepared a 270K-URL dataset in Python, balancing 120K phishing and 150K legitimate samples to support scalable model training and evaluation.<br>•	Fine-tuned DistilBERT using tokenised URL text with lexical and domain signals, achieving 94.27% average cross-validation accuracy on unseen data.<br>•	Improved model robustness through a regularised V2 architecture using dropout and tuning, achieving 0.95–0.99 precision, recall and F1 scores while reducing misclassifications on final unseen tests.<br>Quantium Sales Dashboard & Pricing Analysis [Link]                                                                                                           Jul 2025<br>•	Built a Python Dash sales analytics dashboard using Pandas and Plotly, transforming transaction data into interactive insights on customer behaviour, product performance and pricing trends.<br>•	Processed and analysed 300+ sales records, developing reusable data-preparation modules to support accurate and dashboard-ready reporting.<br>•	Developed interactive regional visualisations with filtering capabilities, allowing stakeholders to compare North, South, East and West performance in a single view.<br>•	Identified an estimated 13.7% sales uplift through pricing analysis, delivering actionable business recommendations while maintaining a modular, Git-controlled codebase.<br>
 
-<!--
-**Karthik7306/Karthik7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karthik Reddy Narra) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Karthik7306&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Karthik7306&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Karthik7306&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Karthik7306&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=Karthik7306&icon=4&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
